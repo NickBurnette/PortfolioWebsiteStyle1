@@ -1,20 +1,3 @@
-/* -----------------------------------------------
-/* How to use? : Check the GitHub README
-/* ----------------------------------------------- */
-
-/* To load a config file (particles.json) you need to host this demo (MAMP/WAMP/local)... */
-/*
-particlesJS.load('particles-js', 'particles.json', function() {
-  console.log('particles.js loaded - callback');
-});
-
-/* Otherwise just put the config content (json): */
-
-/* particlesJS.load(@dom-id, @path-json, @callback (optional)); *//*
-particlesJS.load('particles-js', 'particlesjs-config.json', function() {
-  console.log('callback - particlesjs-config.js config loaded');
-});*/
-
 particlesJS('particles-js',
   
   {
